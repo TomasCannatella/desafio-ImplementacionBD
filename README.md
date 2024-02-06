@@ -51,6 +51,7 @@ Salida esperada
 
 3) El Top 5 de los **customers activos** que gastaron la mayor cantidad de dinero                                                                
 Salida esperada
+
 | First Name | Last Name | Amount    |
 |------------|-----------|-----------|
 | Lannie     | Tortis    | 58513.55  |
